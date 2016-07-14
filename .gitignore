@@ -1,0 +1,5 @@
+*~
+tbench/xsim/*.jou
+tbench/xsim/*.log
+tbench/xsim/*.pb
+tbench/xsim/project_1
